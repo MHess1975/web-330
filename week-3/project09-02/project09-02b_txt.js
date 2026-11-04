@@ -4,8 +4,8 @@
       Project 09-01
 
       Project to read field values from session storage
-      Author: 
-      Date:   
+      Author: Mitchell Hess
+      Date: November 4, 2026
 
       Filename: project09-02b.js
 */
